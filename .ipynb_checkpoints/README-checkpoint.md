@@ -15,8 +15,8 @@ I want to learn more about both pandas and data on the countries of the world.
 
 7. Find the categories with the greatest correlation with a heatmap
 
-8. Create a scatterplot showing the relationship between Fertility Rate and Median Age
+8. Create a scatterplot showing the relationship between Urban population and Median Age
 
-9. Create an enhanced box plot showing the Urban Pop % of each continent
+9. Create a line graph showing the net change in population for countries with a Median Age over 40 years
 
 10. Create a bar graph showing the population of the top ten biggest countries by area
