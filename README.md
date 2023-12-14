@@ -1,22 +1,22 @@
 # country_data_analysis
 I want to learn more about both pandas and data on the countries of the world.
 
-1. Create a pie chart of the top ten most populated countries and the rest of the world
+1. What are the top five most populated countries in the world, and how does their population compare to the rest of the world?
 
-2. Create a pie chart displaying the top ten biggest countries and the rest of the world
+2. What are the top five biggest countries by area, and how does their size compare to the rest of the world?
 
-3. Create a box plot showing the relationship between Continent and Fertility Rate
+3. Which continents have the highest and lowest median fertility rate?
 
-4. Create a line plot showing the relationship between Land Area and Density
+4. What is the relationship between Land Area and Density, and which country has the highest density on average?
 
-5. Create a swarm plot showing the Median Age
+5. Which Median Age comes up the most frequently?
 
-6. Create a bar graph of the top ten countries with the greatest negative yearly change
+6. What are the top ten countries with the greatest negative yearly change in population?
 
-7. Find the categories with the greatest correlation with a heatmap
+7. Which categories of the dataset have the greatest correlation?
 
-8. Create a scatterplot showing the relationship between Fertility Rate and Median Age
+8. What is the relationship between Fertility Rate and Median Age?
 
-9. Create an enhanced box plot showing the Urban Pop % of each continent
+9. Which continents have the highest and lowest median Urban Population %?
 
-10. Create a bar graph comparing the current and future 2050 estimated world population
+10. How does the 2020 population compare to the 2050 projected population?
