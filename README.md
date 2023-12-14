@@ -19,4 +19,4 @@ I want to learn more about both pandas and data on the countries of the world.
 
 9. Create an enhanced box plot showing the Urban Pop % of each continent
 
-10. Create a bar graph c the current and future 2050 estimated world population
+10. Create a bar graph comparing the current and future 2050 estimated world population
